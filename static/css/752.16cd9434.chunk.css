@@ -1,2 +1,0 @@
-.about{height:auto}.tall{max-height:625px;width:-webkit-fit-content;width:-moz-fit-content;width:fit-content}.about .container{gap:3rem}.about .left{width:auto}.about .right{display:flex;flex-direction:column;justify-content:center;width:auto}.about .right h1{color:var(--darker-green)}.about .right{gap:1rem}.right p{font-size:1.25rem}.right .dark-green,.right .olive-green{font-weight:700}@media (max-width:960px){.about .left{display:flex;justify-content:center}.about .container{flex-direction:column;text-align:left}}
-/*# sourceMappingURL=752.16cd9434.chunk.css.map*/
